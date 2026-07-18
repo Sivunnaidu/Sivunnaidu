@@ -1,0 +1,30 @@
+# Superstore Sales Data Analysis
+
+## Project Overview
+Analyzed 4 years of Superstore sales data (2014-2017) to identify key business trends and insights using Python, Pandas, Matplotlib, and Seaborn.
+
+## Key Findings
+1. **Top Category**: Technology generates highest sales
+2. **Top States**: California, New York, Texas contribute 50%+ of total revenue
+3. **Customer Segment**: Consumer segment has highest sales but high profit variation
+4. **Profit Issue**: High sales orders can still result in losses due to discounts
+5. **Seasonality**: Sales peak in November and December every year
+
+## Visualizations
+![Sales by Category](category.png)
+![Top 10 States](states.png)
+![Profit by Segment](segment.png)
+![Sales vs Profit](sales_profit.png)
+![Monthly Sales Trend](monthly.png)
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## How to Run
+1. Open the notebook in Google Colab
+2. Upload the dataset
+3. Run all cells to generate insights
